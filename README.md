@@ -1,12 +1,12 @@
 # AutoTRex
-Let the Computer Play TRex
+Let the Computer Play T-Rex
 
 **Using vanilla JavaScript, automating T-Rex Dinosaur Game - Chrome Dino Runner**
 
 <p align="center">
     <img src="docs/AutoTRex.gif", width="800">
     </br>
-    <sup>Computer playing TRex</sup>
+    <sup>Computer playing T-Rex</sup>
 </p>
 
 ## Highest Score
