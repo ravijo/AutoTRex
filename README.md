@@ -21,3 +21,7 @@ I kept my computer running for 6 hrs and then closed the game because it appeare
 4. Press the Enter key to start the execution of the code, and then press the Space bar key on the page to activate the game
 
 ![Run](docs/console.png)
+
+## Issues (or Error Reporting)
+Please check [here](https://github.com/ravijo/AutoTRex/issues) and create issues accordingly.
+ 
