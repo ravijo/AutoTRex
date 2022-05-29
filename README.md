@@ -6,7 +6,7 @@ Let the Computer Play T-Rex
 <p align="center">
     <img src="docs/AutoTRex.gif", width="800">
     </br>
-    <sup>Computer playing T-Rex</sup>
+    <sup>Computer playing T-Rex Dinosaur Game</sup>
 </p>
 
 ## Highest Score
