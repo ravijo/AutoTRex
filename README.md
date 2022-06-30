@@ -9,6 +9,9 @@ Let the Computer Play T-Rex
     <sup>Computer playing T-Rex Dinosaur Game</sup>
 </p>
 
+## YouTube
+https://www.youtube.com/watch?v=dFZlCKmCA8I
+
 ## Highest Score
 I kept my computer running for 6 hrs and then closed the game because it appeared to be a never-ending game. The score was 413791, as shown in the screenshot below:
 
