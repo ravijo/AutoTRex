@@ -4,7 +4,7 @@ Let the Computer Play T-Rex
 **Using vanilla JavaScript, automating T-Rex Dinosaur Game - Chrome Dino Runner**
 
 <p align="center">
-    <img src="docs/AutoTRex.gif", width="800">
+    <img src="docs/AutoTRex.gif" alt="gif showing demo of AutoTRex">
     </br>
     <sup>Computer playing T-Rex Dinosaur Game</sup>
 </p>
